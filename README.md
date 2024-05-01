@@ -18,13 +18,13 @@ All three libraries will be published under the [Alya Labs organization](https:/
 🇧🇷  I'm brazilian and I currently live in Curitiba, Paraná
 <br>
 🧑‍💻  I work at [Fiep - Paraná State Industry Federation](https://www.linkedin.com/company/fiep/)
-
+<br>
+🍎  When I design interfaces they come out really cool
 
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
