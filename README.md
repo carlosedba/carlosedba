@@ -15,13 +15,13 @@ All three libraries will be published under the [Alya Labs organization](https:/
 <br>
 🔈  I love music
 <br>
+🇧🇷  I'm brazilian and I currently live in Curitiba, Paraná
+<br>
 🧑‍💻  I work at [Fiep - Paraná State Industry Federation](https://www.linkedin.com/company/fiep)
 <br>
 🍎  When I design interfaces they come out really cool
 <br>
 👨‍🦳  I'm 25 years old, and man, I was 22 yesterday, what happened??
-<br>
-🇧🇷  I'm brazilian and I currently live in Curitiba, Paraná
 
 #### You can also find me on
 
