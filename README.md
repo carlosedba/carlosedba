@@ -30,7 +30,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 - [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
 - And soon on Twitter/X 👀
   
-<br><br>
+<br>
 <sup>last updated on May 1, 2024</sup>
 
 <!--
