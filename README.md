@@ -17,15 +17,15 @@ All three libraries will be published under the [Alya Labs organization](https:/
 <br>
 🇧🇷  I'm brazilian and I currently live in Curitiba, Paraná
 <br>
-🧑‍💻  I work at [Fiep - Paraná State Industry Federation](https://www.linkedin.com/company/fiep/)
+🧑‍💻  I work at <a href="https://www.linkedin.com/company/fiep" target="_blank">Fiep - Paraná State Industry Federation</a>
 <br>
 🍎  When I design interfaces they come out really cool
 
 #### You can find me on
 
-- [Instagram (@carlosedba)](http://instagram.com/carlosedba)
-- [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
-- And soon Twitter/X 👀
+- <a href="https://instagram.com/carlosedba" target="_blank">Instagram (@carlosedba)</a>
+- <a href="https://www.linkedin.com/in/carlosalmeida" target="_blank">LinkedIn</a>
+- And soon on Twitter/X 👀
 
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
