@@ -2,13 +2,13 @@
 
 I'm Carlos Eduardo and I've been coding since I was 10 years old, I work mainly with web stuff but I also have interest in game reverse engineering.
 
-#### What's on my mind right now
+#### What's on my mind right now:
 
 I have four libraries that I've created and been using at work and personal projects that I'm preparing to publish publicly at npm.
 One is a React forms library, another is a RPC-like Node.js client-server library and the last one is a React UI kit.
 All three libraries will be published under the [Alya Labs organization](https://github.com/alyalabs) here on GitHub.
 
-#### Facts about me
+#### Facts about me:
 
 🥇  At 17 years old, I represented my state (Paraná, Brazil) and won first place in Web Development at a national competition hosted by the Brazilian National Confederation of Industry (CNI)
 <br>
@@ -24,7 +24,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 <br>
 👨‍🦳  I'm 25 years old, and man, I was 22 yesterday, what happened??
 
-#### You can also find me on
+#### You can also find me on:
 
 - [Instagram (@carlosedba)](https://instagram.com/carlosedba)
 - [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
