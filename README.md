@@ -21,6 +21,12 @@ All three libraries will be published under the [Alya Labs organization](https:/
 <br>
 🍎  When I design interfaces they come out really cool
 
+#### You can find me on
+
+- [Instagram](http://instagram.com/carlosedba)
+- [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
+- And soon Twitter/X 👀
+
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
