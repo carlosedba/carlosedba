@@ -31,9 +31,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 - And soon on Twitter/X 👀
 
 
-```
-last updated on May 1, 2024
-```
+<sup>last updated on May 1, 2024</sup>
 
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
