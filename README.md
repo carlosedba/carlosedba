@@ -4,7 +4,7 @@ I'm Carlos Eduardo and I've been coding since I was 10 years old, I work mainly 
 
 #### What's on my mind right now:
 
-I have three libraries that I created and been using at work and personal projects that I'm preparing to publish publicly at npm.
+I have three libraries that I created and have been using at work and personal projects that I'm preparing to publish publicly at npm.
 One is a React forms library, another is an RPC-like Node.js client-server library and the last one is a React UI kit.
 All three libraries will be published under the [Alya Labs organization](https://github.com/alyalabs) here on GitHub.
 
