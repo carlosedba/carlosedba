@@ -23,7 +23,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 <br>
 👨‍🦳  I'm 25 years old, and man, I was 22 yesterday, what happened??
 
-#### You can find me on
+#### You can also find me on
 
 - [Instagram (@carlosedba)](https://instagram.com/carlosedba)
 - [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
