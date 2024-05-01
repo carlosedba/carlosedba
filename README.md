@@ -23,7 +23,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 
 #### You can find me on
 
-- [Instagram](http://instagram.com/carlosedba)
+- [Instagram (@carlosedba)](http://instagram.com/carlosedba)
 - [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
 - And soon Twitter/X 👀
 
