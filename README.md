@@ -10,7 +10,7 @@ All three libraries will be published under the [Alya Labs organization](https:/
 
 #### Facts about me:
 
-🥇  At 17 years old, I represented my state (Paraná, Brazil) and won first place in Web Development at a national competition hosted by the Brazilian National Confederation of Industry (CNI)
+🥇  At 17 years old, I represented my state (Paraná, Brazil) and won first place in Web Development at a national competition hosted by the [Brazilian National Confederation of Industry (CNI)](https://www.portaldaindustria.com.br/cni/en/about/)
 <br>
 🎓  I have a bachelor's in Information Systems (from the Pontifical Catholic University of Paraná - PUCPR)
 <br>
