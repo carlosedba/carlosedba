@@ -20,6 +20,8 @@ All three libraries will be published under the [Alya Labs organization](https:/
 🧑‍💻  I work at [Fiep - Paraná State Industry Federation](https://www.linkedin.com/company/fiep)
 <br>
 🍎  When I design interfaces they come out really cool
+<br>
+👨‍🦳  I'm 25 years old, and man, I was 22 yesterday, what happened??
 
 #### You can find me on
 
