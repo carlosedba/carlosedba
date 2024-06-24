@@ -31,7 +31,7 @@ I'm Carlos Eduardo and I've been coding since I was 10 years old, I work mainly 
 - And soon on Twitter/X 👀
   
 <br>
-<sup>last updated on May 1, 2024</sup>
+<sup>last updated on June 24, 2024</sup>
 
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
