@@ -2,7 +2,7 @@
 
 I'm Carlos Eduardo and I've been coding since I was 10 years old, I work mainly with web stuff but I also have interest in game reverse engineering.
 
-#### Check out my libraries
+#### Check out my libraries:
 
 - [Alya Forms](https://github.com/alyalabs/alya-forms) - A powerful forms library for React
 - [Alya Connect](https://github.com/alyalabs/alya-connect) - A RPC-like library for Express, Koa and Fastify
