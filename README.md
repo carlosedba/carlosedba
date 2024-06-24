@@ -2,11 +2,11 @@
 
 I'm Carlos Eduardo and I've been coding since I was 10 years old, I work mainly with web stuff but I also have interest in game reverse engineering.
 
-#### What's on my mind right now:
+### Check out my libraries
 
-I have three libraries that I created and have been using at work and personal projects that I'm preparing to publish publicly at npm.
-One is a React forms library, another is an [RPC-like Node.js client-server library](https://github.com/alyalabs/alya-connect) and the last one is a React UI kit.
-All three libraries will be published under the [Alya Labs organization](https://github.com/alyalabs) here on GitHub.
+- [Alya Forms](https://github.com/alyalabs/alya-forms) - A powerful forms library for React
+- [Alya Connect](https://github.com/alyalabs/alya-connect) - A RPC-like library for Express, Koa and Fastify
+- Alya UI - An UI kit to help you create interfaces with React (public version to come soon)
 
 #### Facts about me:
 
