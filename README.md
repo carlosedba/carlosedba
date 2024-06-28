@@ -5,7 +5,7 @@ I'm Carlos Eduardo and I've been coding since I was 10 years old. I work mainly 
 #### Check out my libraries:
 
 - [Alya Forms](https://github.com/alyalabs/alya-forms) - A powerful forms library for React
-- [Alya Connect](https://github.com/alyalabs/alya-connect) - A RPC-like library for Express, Koa and Fastify
+- [Alya Connect](https://github.com/alyalabs/alya-connect) - A RPC library for Express, Koa and Fastify
 - Alya UI - A UI kit to help you ship fast with React (public version to come soon)
 
 #### Facts about me:
