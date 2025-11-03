@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Carlos Eduardo and I've been coding since I was 10 years old. I work mainly with web stuff but I also have an interest in game reverse engineering.
+I'm Carlos Eduardo and I'm passionate about solving problems and challenges through programming, a craft I've been practicing since I was 10.
 
 #### Check out my libraries:
 
 - [Alya Forms](https://github.com/alyalabs/alya-forms) - A powerful forms library for React
-- [Alya Connect](https://github.com/alyalabs/alya-connect) - A RPC library for Express, Koa and Fastify (v1 in development)
-- [Alya UI](https://github.com/alyalabs/alya-ui) - A UI kit to help you ship fast with React (v1 in development)
 
 #### Facts about me:
 
@@ -18,20 +16,19 @@ I'm Carlos Eduardo and I've been coding since I was 10 years old. I work mainly 
 <br>
 🇧🇷  I'm brazilian and I currently live in Curitiba, Paraná
 <br>
-🧑‍💻  I work at [Fiep - Paraná State Industry Federation](https://www.linkedin.com/company/fiep)
+🧑‍💻  I work at [Automat](https://www.runautomat.com/)
 <br>
 🍎  When I design interfaces they come out really cool
 <br>
-👨‍🦳  I'm 25 years old, and man, I was 22 yesterday, what happened??
+👨‍🦳  I'm 26 years old
 
 #### You can also find me on:
 
 - [Instagram (@carlosedba)](https://instagram.com/carlosedba)
 - [LinkedIn](https://www.linkedin.com/in/carlosalmeida)
-- And soon on Twitter/X 👀
   
 <br>
-<sup>last updated on June 24, 2024</sup>
+<sup>last updated on November 3, 2025</sup>
 
 <!--
 **carlosedba/carlosedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
